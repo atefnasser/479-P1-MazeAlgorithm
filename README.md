@@ -1,6 +1,7 @@
 To run the Python code, which visualizes pathfinding algorithms like Depth-First Search (DFS), Breadth-First Search (BFS), and A* in a randomly generated maze, you'll need to set up your Python environment properly. Here's a guide on how to prepare your environment:
 
-Prerequisites
+Prerequisites:
+
 Python 3.x installed on your system.
 Pip (Python package installer) for installing packages.
 
