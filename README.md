@@ -6,7 +6,7 @@ Python 3.x installed on your system.
 Pip (Python package installer) for installing packages.
 
 
-Installation Steps
+Installation Steps:
 
 Install Pygame: This code uses Pygame for visualization. If you don't have Pygame installed, you can install it using pip. Open your terminal (Command Prompt, PowerShell, or a terminal in Linux/MacOS) and run the following command:
 pip install pygame
@@ -16,11 +16,12 @@ Ensure Other Dependencies Are Installed: The code also uses standard libraries r
 
 
 
-Running the Code
+Running the Code:
 
 Prepare Your Script: Copy the provided Python code into a .py file, for example, maze_visualization.py.
 Open Terminal/Command Prompt: Navigate to the directory where you saved maze_visualization.py using the cd command.
 
 
-Execute the Script: Run the script by executing the following command:
+Execute the Script: 
+Run the script by executing the following command:
 python maze_visualization.py
